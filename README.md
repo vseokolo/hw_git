@@ -22,6 +22,6 @@ pip install -r requirements.txt
 
 ## Документация:
 
-Для получения дополнительной информации обратитесь к [документации](docs/README.md).
+Для получения дополнительной информации обратитесь к [документации]((https://ya.ru/neurum/c/tehnologii/q/kakie_metody_shifrovaniya_bankovskih_dannyh_63c76744)).
 
 .
